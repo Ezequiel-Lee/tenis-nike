@@ -36,7 +36,7 @@ Neste GIF animado, você pode conferir o projeto em pleno funcionamento e respon
 
 ## Acesse o Projeto
 
-Você pode acessar o projeto através do GitHub Pages. Clique no link abaixo para testar:
+Você pode acessar o projeto através do link abaixo:
 
 ➜ [Link do Projeto](https://ezequiel-lee.github.io/tenis-nike/)
 
