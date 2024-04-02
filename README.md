@@ -10,8 +10,8 @@ Fiz pequenas melhorias na responsividade.
 ## Tecnologias Utilizadas
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" width="40" alt="html5" src="https://devicons.dev.br/icons?icon=HTML&size=48&theme=dark&perline=1"/>
+	<img height="40" width="40" alt="css3" src="https://devicons.dev.br/icons?icon=CSS&size=48&theme=dark&perline=1"/>
 </div>
 
 ## Veja o funcionamento!
