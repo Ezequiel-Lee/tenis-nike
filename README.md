@@ -10,11 +10,11 @@ Fiz pequenas melhorias na responsividade.
 ## Tecnologias Utilizadas
 
 <div style="display: inline_block">
-  <img height="40" width="40" alt="html5" src="https://devicons.dev.br/icons?icon=HTML&size=48&theme=dark&perline=1"/>
-	<img height="40" width="40" alt="css3" src="https://devicons.dev.br/icons?icon=CSS&size=48&theme=dark&perline=1"/>
+  <img height="40" width="40" alt="html5" src="./src/private/html5.png"/>
+	<img height="40" width="40" alt="css3" src="./src/private/css3.png"/>
 </div>
 
-## Veja o funcionamento!
+## Veja o funcionamento
 
 <img src="./src/private/tenis.gif.gif" alt="Gif mostrando o funcionamento do projeto" width="500">
 
